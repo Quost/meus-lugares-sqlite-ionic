@@ -1,0 +1,7 @@
+{
+  "name": "A06-meus-lugares",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
